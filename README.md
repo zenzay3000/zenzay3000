@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hi, I'm Jose 👋
 
 <!--
 **zenzay3000/zenzay3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently learning and working on cloud engineering projects.
+I’m currently learning and working on cloud engineering projects.
+
+### Connect with me:
+
+- [GitHub](https://github.com/zenzay3000)
